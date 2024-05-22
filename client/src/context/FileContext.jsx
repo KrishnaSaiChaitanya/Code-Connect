@@ -114,7 +114,7 @@ function FileContextProvider({ children }) {
             zip.file(file.name, blobFile)
         })
         zip.generateAsync({ type: "blob" }).then(function (content) {
-            saveAs(content, "Code-Sync-Files.zip")
+            saveAs(content, "Code-Connect-Files.zip")
         })
     }
 

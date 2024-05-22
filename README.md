@@ -1,15 +1,15 @@
-# Code Sync - A Realtime Code Editor
+# Code Connect - A Realtime Code Editor
 
 ![Preview Image](./preview.png)
 
-Code Sync is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
+Code Connect is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
-![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Sync?style=for-the-badge&color=48bf21)
-![GitHub Repo stars](https://img.shields.io/github/stars/sahilatahar/Code-Sync?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/sahilatahar/Code-Sync?style=for-the-badge&color=d7af2d)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sahilatahar/Code-Sync?style=for-the-badge&color=f47373)
-![GitHub License](https://img.shields.io/github/license/sahilatahar/Code-Sync?style=for-the-badge&color=e67234)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsahilatahar%2FCode-Sync&label=Repo%20Views&countColor=%2337d67a&labelStyle=upper)
+![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Connect?style=for-the-badge&color=48bf21)
+![GitHub Repo stars](https://img.shields.io/github/stars/sahilatahar/Code-Connect?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/sahilatahar/Code-Connect?style=for-the-badge&color=d7af2d)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/sahilatahar/Code-Connect?style=for-the-badge&color=f47373)
+![GitHub License](https://img.shields.io/github/license/sahilatahar/Code-Connect?style=for-the-badge&color=e67234)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsahilatahar%2FCode-Connect&label=Repo%20Views&countColor=%2337d67a&labelStyle=upper)
 
 ## 🔮 Features
 
@@ -171,7 +171,7 @@ README.md
 1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
 2. **Clone the repository:**
     ```bash
-    git clone https://github.com/<your-username>/Code-Sync.git
+    git clone https://github.com/<your-username>/Code-Connect.git
     ```
 3. **Set .env file:**
    Inside the client and server directory, create or edit the .env file and add the following line:  
@@ -216,7 +216,7 @@ README.md
 
 ## 🤝 Contribute
 
-We welcome contributions to make Code Sync even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions to make Code Connect even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## 🌟 Support Us
 
