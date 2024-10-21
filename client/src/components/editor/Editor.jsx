@@ -50,11 +50,13 @@ function Editor() {
             tooltipField(filteredUsers),
             cursorTooltipBaseTheme,
         ]
-        const langExt = loadLanguage(language.toLowerCase())
+        const langExt = language !== 'c++' ? loadLanguage(language.toLowerCase()) : loadLanguage('cpp')
+        console.log(language.toLowerCase());
+        
         if (langExt) {
             extensions.push(langExt)
         } else {
-            // toast.error("Syntax Highlighting not available for this language")
+            toast.error("Syntax Highlighting not available for this language")
         }
         return extensions
     }
